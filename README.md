@@ -5,6 +5,8 @@ Andrii Sukhoi
 
 position: Backend-developer
 
-experience: > 4 years
+commercial experience: > 4 years
 
-technologies: php, js, postgres, mysql, vuejs, git
+technologies: php, js, postgres, mysql, vuejs, git, postman, api development, ddd
+
+
